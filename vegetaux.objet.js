@@ -45,7 +45,7 @@ function shuffle(tableau_shuffle)
 }
 
 shuffle(tableau_shuffle);
-console.log(tableau_shuffle);
+//console.log(tableau_shuffle);
 
 function generer_vegetaux()
 {
