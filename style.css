@@ -4,3 +4,27 @@ td
     width: 20px;
     height: 20px;
 }
+
+#vegetaux 
+{
+    width: 20px;
+    height: 20px;
+    background-color: #39790D;
+    margin-bottom: 30px;
+}
+
+#vegetarien_male
+{
+    width: 20px;
+    height: 20px;
+    background-color: #064830;
+    margin-bottom: 30px;
+}
+
+#vegetarien_femelle
+{
+    width: 20px;
+    height: 20px;
+    background-color:#139E6C;
+    margin-bottom: 30px;
+}
