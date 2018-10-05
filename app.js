@@ -12,7 +12,7 @@ for(y=0; y<15; y++){ // créer les autre ligne (tr)
 
 
     for(x=0; x<15; x++){ // créer toute les autres cellules vides qui accueilleront les resultats (td ou th)
-        var cellvide = row.append('<td></td>')
+        var cellvide = row.append('<td style="background-color: #FFFFFF" class="case" ></td>')
 
     }
 
